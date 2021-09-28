@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cterp.cterp"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:3:4-41:19
+12        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+12-->[androidx.core:core:1.1.0] /Users/mohithgowdahr/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:24:18-86
+13        android:icon="@mipmap/ic_launcher"
+13-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:5:9-43
+14        android:label="cterp"
+14-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:4:9-30
+15        android:usesCleartextTraffic="true" >
+15-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:6:9-44
+16        <activity
+16-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:7:9-35:20
+17            android:name="com.cterp.cterp.MainActivity"
+17-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:8:13-41
+18            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+18-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:11:13-163
+19            android:hardwareAccelerated="true"
+19-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:12:13-47
+20            android:launchMode="singleTop"
+20-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:9:13-43
+21            android:supportsRtl="true"
+21-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:14:13-39
+22            android:theme="@style/LaunchTheme"
+22-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:10:13-47
+23            android:windowSoftInputMode="adjustResize" >
+23-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:13:13-55
+24            <meta-data
+24-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:18:13-21:17
+25                android:name="io.flutter.embedding.android.NormalTheme"
+25-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:19:15-70
+26                android:resource="@style/NormalTheme" />
+26-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:20:15-52
+27            <!--
+28                 Displays an Android View that continues showing the launch screen
+29                 Drawable until Flutter paints its first frame, then this splash
+30                 screen fades out. A splash screen is useful to avoid any visual
+31                 gap between the end of Android's launch screen and the painting of
+32                 Flutter's first frame.
+33            -->
+34            <meta-data
+34-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:27:13-30:17
+35                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+35-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:28:15-79
+36                android:resource="@drawable/launch_background" />
+36-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:29:15-61
+37
+38            <intent-filter>
+38-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:31:13-34:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:32:17-68
+39-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:32:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:33:17-76
+41-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:33:27-74
+42            </intent-filter>
+43        </activity>
+44        <!--
+45             Don't delete the meta-data below.
+46             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+47        -->
+48        <meta-data
+48-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:38:9-40:33
+49            android:name="flutterEmbedding"
+49-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:39:13-44
+50            android:value="2" />
+50-->/Users/mohithgowdahr/Desktop/cterp/android/app/src/main/AndroidManifest.xml:40:13-30
+51    </application>
+52
+53</manifest>

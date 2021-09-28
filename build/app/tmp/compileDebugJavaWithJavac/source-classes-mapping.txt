@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/cterp/cterp/BuildConfig.java
+ com.cterp.cterp.BuildConfig
+com/cterp/cterp/MainActivity.java
+ com.cterp.cterp.MainActivity

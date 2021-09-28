@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mohithgowdahr/Desktop/cterp/build/webview_flutter_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/mohithgowdahr/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/mohithgowdahr/Desktop/cterp/build/webview_flutter_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/mohithgowdahr/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/mohithgowdahr/Desktop/cterp/build/webview_flutter_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/mohithgowdahr/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/mohithgowdahr/Desktop/cterp/build/webview_flutter_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/mohithgowdahr/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/drawable/notification_icon_background.xml"
+    }
+]
