@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mohithgowdahr/Desktop/cterp/build/webview_flutter_android/intermediates/res/merged/debug/values-v21/values-v21.xml",
+            "outputFile": "/Users/mohithgowdahr/Desktop/ctflutter-main/build/webview_flutter_android/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/Users/mohithgowdahr/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/values-v21/values-v21.xml",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "outputFile": "/Users/mohithgowdahr/Desktop/cterp/build/webview_flutter_android/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/mohithgowdahr/Desktop/ctflutter-main/build/webview_flutter_android/intermediates/res/merged/debug/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/Users/mohithgowdahr/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/values-v21/values-v21.xml",

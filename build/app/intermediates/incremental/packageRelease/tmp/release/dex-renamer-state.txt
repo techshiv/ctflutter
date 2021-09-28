@@ -1,4 +1,4 @@
-#Tue Sep 28 17:44:00 BST 2021
-base.0=/Users/mohithgowdahr/Desktop/cterp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+#Tue Sep 28 18:32:58 BST 2021
+base.0=/Users/mohithgowdahr/Desktop/ctflutter-main/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
